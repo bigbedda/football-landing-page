@@ -110,6 +110,7 @@ h1 {
 .race {
     display: flex;
     flex-direction: row-reverse;
+    background-color: lightcyan;
 }
 
 .race-info {
